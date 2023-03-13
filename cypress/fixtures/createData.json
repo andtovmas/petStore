@@ -1,0 +1,65 @@
+{
+  "data": {
+    "id": 10,
+    "name": "doggie",
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "photoUrls": ["string"],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  "emptyName": {
+    "id": 10,
+    "name": " ",
+    "category": {
+      "id": 1,
+      "name": "Dogs"
+    },
+    "photoUrls": ["string"],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  },
+  "emptyStatus": {
+    "id": 0,
+    "name": "dog",
+    "category": {
+      "id": 1,
+      "name": "Cats"
+    },
+    "photoUrls": ["string"],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": ""
+  },
+  "emptyId": {
+    "name": "dog",
+    "category": {
+      "id": 1,
+      "name": "Cats"
+    },
+    "photoUrls": ["string"],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": ""
+  }
+}
